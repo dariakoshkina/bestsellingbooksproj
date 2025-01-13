@@ -1,9 +1,8 @@
-# bestsellingbooksproj
-#Bestselling Books data
+# Bestselling Books data
 
 This dataset was compiled for the Bestselling Books Project: books.dariakoshkina.com
 
-#List of attributes:<br/>
+# List of attributes:<br/>
 **Book**<br/>
 **Author**<br/>
 **Original language:** initial language of publication <br/>
