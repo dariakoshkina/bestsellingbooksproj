@@ -1,18 +1,18 @@
 # bestsellingbooksproj
-##Bestselling Books data
+#Bestselling Books data
 
 This dataset was compiled for the Bestselling Books Project: books.dariakoshkina.com
 
-##List of attributes:
+#List of attributes:<br/>
 **Book**<br/>
-**Author**
-**Original language:** initial language of publication 
-**First published:** year
-**Genre:** merged genres
-**Approximate sales:** approximate book sales
-**Subjects:** genre subjects
-**Book_type:** Fiction / Non-fiction / Unknown
-**Book word common for the dataset:** one most common word to describe the book genre
-**From top 200 words:** list of related subjects from the top 200 common genres
-**Majority_Book_Type:** Fiction / Non-Fiction / Unknown (alternative categorization)
-**Raw Subjects:** raw subjects data
+**Author**<br/>
+**Original language:** initial language of publication <br/>
+**First published:** year<br/>
+**Genre:** merged genres<br/>
+**Approximate sales:** approximate book sales<br/>
+**Subjects:** genre subjects<br/>
+**Book_type:** Fiction / Non-fiction / Unknown<br/>
+**Book word common for the dataset:** one most common word to describe the book genre<br/>
+**From top 200 words:** list of related subjects from the top 200 common genres<br/>
+**Majority_Book_Type:** Fiction / Non-Fiction / Unknown (alternative categorization)<br/>
+**Raw Subjects:** raw subjects data<br/>
