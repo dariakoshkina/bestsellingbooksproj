@@ -6,7 +6,7 @@ This dataset was compiled for the Bestselling Books Project: books.dariakoshkina
 **Book**<br/>
 **Author**<br/>
 **Original language:** initial language of publication <br/>
-**First published:**Publication year<br/>
+**First published:** Publication year<br/>
 **Genre:** Combined genre categories<br/>
 **Approximate sales:**  Estimated total sales<br/>
 **Subjects:** Most frequent Open Library subject tags<br/>
