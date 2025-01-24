@@ -3,18 +3,21 @@
 This dataset was compiled for the Bestselling Books Project: books.dariakoshkina.com
 
 # List of attributes:<br/>
+
+
+List of attributes:
 **Book**<br/>
-**Author**<br/>
-**Original language:** initial language of publication <br/>
-**First published:** Publication year<br/>
+**Author(s)**<br/>
+**Original language:** Initial publication language<br/>
+**First published:** Year<br/>
 **Genre:** Combined genre categories<br/>
-**Approximate sales:**  Estimated total sales<br/>
-**Subjects:** Most frequent Open Library subject tags<br/>
-**Book_type:** Fiction / Non-fiction / Unknown<br/>
-**From top 200 words:** Subject tags from Open Library's 200 most common genre descriptions<br/>
-**Book word common for the dataset:** Most frequent subject tag from the top 200 list<br/>
-**Majority_Book_Type:** Alternative categorization (Fiction/Non-Fiction/Drama/Unknown), based on genre mapping<br/>
-**Raw Subjects:** Unprocessed subject data from Open Library<br/>
+**Approximate sales:** Estimated total sales<br/>
+**Subjects:** All Open Library subject tags<br/>
+**Book type:** Fiction / Non-fiction / Unknown<br/>
+**Primary tag:** Most frequent subject from top 200<br/>
+**Top 200:**Subject tags from Open Library's 200 most common genre descriptions<br/>
+**Majority book type:** Alternative categorization (Fiction/Non-Fiction/Drama/Unknown), based on genre mapping<br/>
+**Raw subjects:** Original Open Library subject data<br/>
 
 # Data sources
 Abbas, F. (2022). Books Sales and Ratings-EDA. Kaggle. Retrieved from https://www.kaggle.com/code/faresabbasai2022/books-sales-and-ratings-eda/input <br/>
