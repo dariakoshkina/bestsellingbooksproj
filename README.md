@@ -1,6 +1,6 @@
 # Bestselling Books data
 
-This dataset was compiled for the Bestselling Books Project: books.dariakoshkina.com
+This dataset was compiled for the Bestselling Books Project: books.dariakoshkina.com by Daria Koshkina and Yixuan Li
 
 # List of attributes:<br/>
 
