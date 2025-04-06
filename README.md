@@ -14,8 +14,8 @@ List of attributes:
 **Approximate sales:** Estimated total sales<br/>
 **Subjects:** All Open Library subject tags<br/>
 **Book type:** Fiction / Non-fiction / Unknown<br/>
-**Primary tag:** Most frequent subject from top 200<br/>
-**Top 200:**Subject tags from Open Library's 200 most common genre descriptions<br/>
+**Book word common for the dataset:** Most frequent subject from top 200<br/>
+**Top 200 phrases:** Subject tags from Open Library's 200 most common genre descriptions<br/>
 **Majority book type:** Alternative categorization (Fiction/Non-Fiction/Drama/Unknown), based on genre mapping<br/>
 **Raw subjects:** Original Open Library subject data<br/>
 
