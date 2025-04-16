@@ -12,13 +12,12 @@ List of attributes:
 **First published:** Year<br/>
 **Genre:** Combined genre categories<br/>
 **Approximate sales:** Estimated total sales<br/>
-**Subjects:** All Open Library subject tags<br/>
+**All Subjects:** All Open Library subject tags<br/>
 **Book type:** Fiction / Non-fiction / Unknown<br/>
-**Book word common for the dataset:** Most frequent subject from top 200<br/>
+**Book word common subject:** Most frequent subject from top 200<br/>
 **Top 200 phrases:** Subject tags from Open Library's 200 most common genre descriptions<br/>
-**Majority book type:** Alternative categorization (Fiction/Non-Fiction/Drama/Unknown), based on genre mapping<br/>
-**Raw subjects:** Original Open Library subject data<br/>
-
+**Subjects**: Normalized subjects <br/>
+**Most common subject phrase normalized**: most common subject normalixed <br/>
 # Data sources
 Abbas, F. (2022). Books Sales and Ratings-EDA. Kaggle. Retrieved from https://www.kaggle.com/code/faresabbasai2022/books-sales-and-ratings-eda/input <br/>
 Pietrick, A. (2023). Book Publishing Dataset. GitHub Gist. Retrieved from https://gist.github.com/apietrick24/bfffc6c0d47abf00029790381e89626d <br/>
